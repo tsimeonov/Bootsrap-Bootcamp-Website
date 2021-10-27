@@ -9,11 +9,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-design)
+![](./design/desktop-design.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://tsimeonov.github.io/Bootsrap-Bootcamp-Website/
 
 ## My process
 
